@@ -42,4 +42,3 @@ public class HibernateUtil {
         return sessionAnnotationFactory;
     }
 }
-
